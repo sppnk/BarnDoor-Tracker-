@@ -9,7 +9,7 @@
 //BARN DOOR DATA
 //when run it has to be mechanically at THETA0 rads
 #define RADS_PER_SEC 7.292115e-05 //SIDEREAL SPEED DESIRED - 
-#define LENGTH_CM 30 // fill in with precise measured value hinge to bolt axis
+#define LENGTH_CM 28 // fill in with precise measured value hinge to bolt axis
 // For theta zero, I used relative measurement between two boards w/ level.
 // Got 0.72 degrees, which is 0.012566 radians
 #define THETA0  0 // fill in with angle at fully closed position (radians)
