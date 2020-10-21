@@ -48,6 +48,7 @@ bool isDoingStep; // from Accelstepper
 //}
 
 //two pivots barndoor. speed decreases with time
+//remember counterweight to easy the motor forces
 
 float ypt(float ts) {
   // bolt insertion rate in cm/s: y'(t) // bolt linear speed depending on t
